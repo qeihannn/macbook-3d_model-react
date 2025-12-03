@@ -8,7 +8,7 @@ const Hero = () => {
      }, []);
 
   return (
-    <section id="hero">
+    <section id="hero" className="mt-36">
         <div>
             <h1>Macbook Pro</h1>
             <img src="/title.png" alt="Macbook Title" />
