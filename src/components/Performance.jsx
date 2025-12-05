@@ -42,7 +42,6 @@ const Performance = () => {
                     end: "center center",
                     scrub: 1,
                     invalidateOnRefresh: true,
-                    anticipatePin: 1,
                 },
             });
 
