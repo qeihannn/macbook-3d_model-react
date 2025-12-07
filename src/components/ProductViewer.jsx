@@ -57,12 +57,6 @@ const ProductViewer = () => {
 
          <ModelSwitcher scale={isMobile ? scale - 0.03 : scale} isMobile={isMobile} />
 
-          <OrbitControls 
-                    enableZoom={false}      
-                    enablePan={false}        
-                    rotateSpeed={0.5}           
-                    />
-
     </Canvas>
 
     </section>
